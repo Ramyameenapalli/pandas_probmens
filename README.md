@@ -1,4 +1,4 @@
-# pandas_probmens
+# pandas_assesment
 Take this monstrosity as the DataFrame to use in the following puzzles:
 df = pd.DataFrame({'From_To': ['LoNDon_paris', 'MAdrid_miLAN',
 'londON_StockhOlm',
